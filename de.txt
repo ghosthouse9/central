@@ -1,0 +1,9 @@
+Planning - water fall model and agile model
+Code- We genereally use .Net or Java for coding(tools used for management are called as source code management.
+)
+SCM- Tools are as follows: tortoise,svm,git,tfs,azure devops.
+SVN vs Git: What is the Difference Between Git and SVN?
+While Git and SVN are both enterprise version control systems (VCS) that help with workflow and project management in coding, they do have their differences. The difference between Git and SVN version control systems is that Git is a distributed version control system, whereas SVN is a centralized version control system. Git uses multiple repositories including a centralized repository and server, as well as some local repositories. SVN does not have a centralized repository or server.
+bjknm,cdsxscdcx 
+hjkn m,
+vhjk m,'vhbjk
